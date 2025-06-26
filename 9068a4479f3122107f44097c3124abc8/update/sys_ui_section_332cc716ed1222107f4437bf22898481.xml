@@ -4,13 +4,13 @@
             <element>pick_up_reminder</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-06-25 07:52:02</sys_created_on>
-            <sys_id>cebccf16ed1222107f4437bf22898442</sys_id>
+            <sys_created_on>2025-06-26 07:58:31</sys_created_on>
+            <sys_id>fec75cb6d41222107f44a52a78a812e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">332cc716ed1222107f4437bf22898481</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-25 07:52:02</sys_updated_on>
+            <sys_updated_on>2025-06-26 07:58:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>last_overdue_reminder</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-06-25 07:52:02</sys_created_on>
-            <sys_id>46bccf16ed1222107f4437bf22898443</sys_id>
+            <sys_created_on>2025-06-26 07:58:31</sys_created_on>
+            <sys_id>76c75cb6d41222107f44a52a78a812e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">332cc716ed1222107f4437bf22898481</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-25 07:52:02</sys_updated_on>
+            <sys_updated_on>2025-06-26 07:58:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-06-25 07:52:02</sys_created_on>
-            <sys_id>cabccf16ed1222107f4437bf22898443</sys_id>
+            <sys_created_on>2025-06-26 07:58:31</sys_created_on>
+            <sys_id>fac75cb6d41222107f44a52a78a812e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">332cc716ed1222107f4437bf22898481</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-25 07:52:02</sys_updated_on>
+            <sys_updated_on>2025-06-26 07:58:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>return_reminder</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-06-25 07:52:02</sys_created_on>
-            <sys_id>42bccf16ed1222107f4437bf22898444</sys_id>
+            <sys_created_on>2025-06-26 07:58:31</sys_created_on>
+            <sys_id>72c75cb6d41222107f44a52a78a812e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">332cc716ed1222107f4437bf22898481</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-25 07:52:02</sys_updated_on>
+            <sys_updated_on>2025-06-26 07:58:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>overdue_count</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-06-25 07:52:02</sys_created_on>
-            <sys_id>c6bccf16ed1222107f4437bf22898444</sys_id>
+            <sys_created_on>2025-06-26 07:58:31</sys_created_on>
+            <sys_id>f6c75cb6d41222107f44a52a78a812e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reminders" display_value="Reminders" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">332cc716ed1222107f4437bf22898481</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-25 07:52:02</sys_updated_on>
+            <sys_updated_on>2025-06-26 07:58:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
